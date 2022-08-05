@@ -46,6 +46,6 @@ Here are some ideas to get you started:
   <br>
 </div>
 <div>
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bboggo&show_icons=true&theme=tokyonight)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bboggo&layout=compact&theme=tokyonight)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bboggo)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bboggo)](https://github.com/anuraghazra/github-readme-stats)
 </div>
