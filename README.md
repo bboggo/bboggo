@@ -1,7 +1,9 @@
 <div align="center>
-    # Kim Min Ji @bboggo
+    # Kim Min Ji @bboggo✨
 </div>
 #### Hi there 👋! I'm backend web developer
+
+
 <!--
 
 ✔️
