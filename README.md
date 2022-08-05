@@ -1,5 +1,5 @@
 <div align=center><h1>Kim Min Ji @bboggo✨</h1></div>
-<div><h3>Hi there 👋! I'm backend web developer</h3></div>
+<div><h3>Hi there 👋! I'm backend web developer</h3><br><br><br></div>
 
 
 <!--
