@@ -32,10 +32,12 @@
 <div>
 <h2>⚡ Tools</h2>
 <br><br>
-![bboggo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bboggo&theme=graywhite&show_icons=true)
 </div>
-<div>  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bboggo&layout=compact&theme=tokyonight)</div>
+
+![bboggo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bboggo&theme=graywhite&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bboggo&layout=compact&theme=tokyonight)
+
 
 <!--
 
