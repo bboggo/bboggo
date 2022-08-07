@@ -1,7 +1,9 @@
 <div><h1>Kim Min Ji @bboggo✨</h1></div>
 <div><h3>Hi there 👋! I'm backend web developer</h3><br><br><br></div>
 
-
+<div><h1>About me</h1></div>
+<div><h3>Portfolio
+<a href="https://purring-pasta-b76.notion.site/Kim-Min-Ji-567d94a278a04158a36e58ea5dfb1be1" target="_blank"><img src="https://img.shields.io/badge/notion-FFCC33?style=flat&logo=notion&logoColor=000000"/></a></div>
 <!--
 
 ✔️
