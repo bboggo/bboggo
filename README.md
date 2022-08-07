@@ -1,18 +1,18 @@
 <div><h1>Kim Min Ji @bboggo✨</h1></div>
-<div><h3>Hi there 👋! I'm backend web developer</h3><br><br><br></div>
+<div><h3>Hi there 👋! I'm backend web developer</h3><br></div>
 
 <div>
-<h2>😄 About me</h2>
+<h2>😄 About me</h2><br>
   <h3>Study</h3>
 <a href="https://purring-pasta-b76.notion.site/Kim-Min-Ji-567d94a278a04158a36e58ea5dfb1be1" target="_blank"><img src="https://img.shields.io/badge/notion-FFCCCC?style=for-the-badge&logo=notion&logoColor=000000"/></a>
-<a href="" target="_blank"><img src="https://simpleicons.org/icons/bloglovin.svg-CCFFFF?style=for-the-badge&logo=Blog&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://simpleicons.org/icons/bloglovin.svg-CCFFFF?style=for-the-badge&logo=Blog&logoColor=000000"/><br></a>
 </div>
 
 
 <div><h2>⚡ Skills</h1></div>
 
 <div> 
-  <br><br>
+  <br>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -29,7 +29,7 @@
   <br><br><br><br><br>
 </div>
 <div><h2>⚡ Tools</h2></div>
-<br><br><br><br><br><br>
+<br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bboggo)](https://github.com/bboggo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bboggo)](https://github.com/bboggo/github-readme-stats)
 
