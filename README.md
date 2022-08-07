@@ -32,9 +32,9 @@
 <div>
 <h2>⚡ Tools</h2>
 <br><br>
-<div>![[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bboggotheme=graywhite&show_icons=true)](https://github.com/bboggo/github-readme-stats)</div>
+<div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bboggotheme=graywhite&show_icons=true)</div>
   
-<div>![[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bboggo)](https://github.com/bboggo/github-readme-stats)</div>
+<div>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bboggo</div>
 </div>
 
 <!--
