@@ -3,7 +3,7 @@
 
 <div>
 <h2>😄 About me</h2>
-<h3>Study
+  <h3>Study</h3>
 <a href="https://purring-pasta-b76.notion.site/Kim-Min-Ji-567d94a278a04158a36e58ea5dfb1be1" target="_blank"><img src="https://img.shields.io/badge/notion-FFCCCC?style=for-the-badge&logo=notion&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://simpleicons.org/icons/bloglovin.svg-CCFFFF?style=for-the-badge&logo=Blog&logoColor=000000"/></a>
 </div>
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br><br><br><br><br>
 </div>
-<div><h2>⚡ Tools</h1></div>
+<div><h2>⚡ Tools</h2></div>
 <br><br><br><br><br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bboggo)](https://github.com/bboggo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bboggo)](https://github.com/bboggo/github-readme-stats)
