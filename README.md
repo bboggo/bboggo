@@ -1,27 +1,15 @@
 <div><h1>Kim Min Ji @bboggo✨</h1></div>
 <div><h3>Hi there 👋! I'm backend web developer</h3><br><br><br></div>
 
-<div><h1>About me</h1></div>
-<div><h3>Portfolio
-<a href="https://purring-pasta-b76.notion.site/Kim-Min-Ji-567d94a278a04158a36e58ea5dfb1be1" target="_blank"><img src="https://img.shields.io/badge/notion-FFCC33?style=flat&logo=notion&logoColor=000000"/></a></div>
-<!--
+<div>
+<h2>😄 About me</h2>
+<h3>Study
+<a href="https://purring-pasta-b76.notion.site/Kim-Min-Ji-567d94a278a04158a36e58ea5dfb1be1" target="_blank"><img src="https://img.shields.io/badge/notion-FFCCCC?style=for-the-badge&logo=notion&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://simpleicons.org/icons/bloglovin.svg-CCFFFF?style=for-the-badge&logo=Blog&logoColor=000000"/></a>
+</div>
 
-✔️
-**bboggo/bboggo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div><h1>⚡ STACKS</h1></div>
+<div><h2>⚡ Skills</h1></div>
 
 <div> 
   <br><br>
@@ -40,7 +28,24 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br><br><br><br><br>
 </div>
-
+<div><h2>⚡ Tools</h1></div>
+<br><br><br><br><br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bboggo)](https://github.com/bboggo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bboggo)](https://github.com/bboggo/github-readme-stats)
 
+<!--
+
+✔️
+**bboggo/bboggo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
