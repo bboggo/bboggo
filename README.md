@@ -2,14 +2,14 @@
 <div><h3>Hi there 👋! I'm backend web developer</h3><br></div>
 
 <div>
-<h2>😄 About me</h2>
+<h2>About me</h2>
   <h3>Study</h3>
 <a href="https://purring-pasta-b76.notion.site/Kim-Min-Ji-567d94a278a04158a36e58ea5dfb1be1" target="_blank"><img src="https://img.shields.io/badge/notion-FFCCCC?style=for-the-badge&logo=notion&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://simpleicons.org/icons/bloglovin.svg-CCFFFF?style=for-the-badge&logo=Blog&logoColor=000000"/><br></a>
 </div>
 
 
-<div><h2>⚡ Skills</h1></div>
+<div><h2>Skills</h1></div>
 
 <div> 
   <br>
@@ -32,9 +32,9 @@
 <div>
 <h2>⚡ Tools</h2>
 <br><br>
-<div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bboggotheme=graywhite&show_icons=true)</div>
+![bboggo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bboggo&theme=graywhite&show_icons=true)
   
-<div>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bboggo</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bboggo)
 </div>
 
 <!--
