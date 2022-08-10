@@ -1,15 +1,8 @@
 <div><h1>Kim Min Ji @bboggo✨</h1></div>
 <div><h3>Hi there 👋! I'm backend web developer</h3><br></div>
-
-<div>
-<h2>About me</h2>
-  <h3>Study</h3>
 <a href="https://purring-pasta-b76.notion.site/Kim-Min-Ji-567d94a278a04158a36e58ea5dfb1be1" target="_blank"><img src="https://img.shields.io/badge/notion-FFCCCC?style=for-the-badge&logo=notion&logoColor=000000"/></a>
 <a href="" target="_blank"><img src="https://simpleicons.org/icons/bloglovin.svg-CCFFFF?style=for-the-badge&logo=Blog&logoColor=000000"/><br></a>
-</div>
-
-
-<div><h2>Skills</h1></div>
+<div><h2>⚡ Skills</h1></div>
 
 <div> 
   <br>
@@ -40,7 +33,12 @@
 
 
 <!--
-
+<div>
+<h2>About me</h2>
+  <h3>Study</h3>
+<a href="https://purring-pasta-b76.notion.site/Kim-Min-Ji-567d94a278a04158a36e58ea5dfb1be1" target="_blank"><img src="https://img.shields.io/badge/notion-FFCCCC?style=for-the-badge&logo=notion&logoColor=000000"/></a>
+<a href="" target="_blank"><img src="https://simpleicons.org/icons/bloglovin.svg-CCFFFF?style=for-the-badge&logo=Blog&logoColor=000000"/><br></a>
+</div>
 ✔️
 **bboggo/bboggo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
