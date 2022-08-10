@@ -28,7 +28,6 @@
 </div>
 
 ![bboggo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bboggo&theme=graywhite&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bboggo&layout=compact&theme=graywhite)
 
 
